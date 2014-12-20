@@ -1,0 +1,4 @@
+kanjidict
+=========
+
+Kanji dictionary
